@@ -25,6 +25,8 @@ function App() {
         <button className="nupp">Seaded</button>
       </Link>
 
+  
+
       {/* <p></p>
       <div>Tekst</div> */}
       {/* <span></span> */}
